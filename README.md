@@ -1,1 +1,1 @@
-This is Sunoor's first Git project!
+This is Sunoor's first Git project! I've made some more edits to this file, just because I really feel like it. Boredom is a b***h
